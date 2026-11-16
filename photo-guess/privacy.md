@@ -1,6 +1,6 @@
 # Photo Guess privacy policy
 
-_Effective: November 16, 2026 (previous version: 2025.10.25)_
+_Effective: 2026.11.16 (previous version: 2026.10.25)_
 
 Photo Guess is a party game. Everyone's phone joins the **host**: either one player's phone, or an Android TV that everyone watches. In the same room, phones join over Wi-Fi or a phone's hotspot; in an **online game**, players who are apart join the host's phone over the internet, through our relay (see **Online games**). A photo appears on every screen (or, when a TV hosts, on the TV), and everyone guesses whose photo it is. Below, the **host's device** means that phone or that TV.
 
