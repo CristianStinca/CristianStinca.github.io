@@ -5,9 +5,10 @@ permalink: /photo-guess/
 
 # Photo Guess
 
-Guess whose photo it is! A party game for 3 to 12 friends in the same room. One phone hosts, everyone else joins over Wi-Fi or the host's hotspot. No internet, no account, no ads.
+Guess whose photo it is! A party game for 3 to 12 friends, in the same room or online. One phone hosts; in the room, everyone else joins over Wi-Fi or the host's hotspot, and friends elsewhere join an online game with the host's invite link. No account, no ads.
 
-- [Privacy policy](privacy/)
+- [Privacy policy](privacy)
+- [Community rules](rules) (for online games)
 - Support and questions: [cristianstinca.support@gmail.com](mailto:cristianstinca.support@gmail.com)
 
 ## Help
@@ -20,4 +21,6 @@ Guess whose photo it is! A party game for 3 to 12 friends in the same room. One 
 
 **We can't start adding photos.** Collecting starts once 3 players are connected (the host counts as one).
 
-**Where do our photos go?** Only to the host's phone, and they're deleted when the game ends. See the [privacy policy](privacy/).
+**Where do our photos go?** Only to the host's phone, and they're deleted when the game ends. In an online game they get there end-to-end encrypted, through a relay that can't see them and keeps nothing. See the [privacy policy](privacy).
+
+**Someone broke the rules in an online game.** Report the photo or the player in the app: it opens an email to us. The host can also remove a player, and anyone can block one. See the [community rules](rules).

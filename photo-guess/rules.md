@@ -4,9 +4,6 @@ _Version 1. Effective: 2026.11.16_
 
 These are the rules every player accepts in the app before their first online game, whether they host it or join it. A game on the same Wi-Fi, or on a TV, doesn't ask for them. The app shows this same text; when it changes, the app asks everyone to accept the new version.
 
-> Publish this page at <https://cristianstinca.github.io/photo-guess/rules>, next to the privacy policy (`privacy-policy.md` → **Online games** links to it), and use its address wherever a store asks for terms of use or a user policy.
-> The text below must match `apps/photo_guess/lib/features/safety/community_rules.dart` word for word. A change to the app's text needs a new `communityRulesVersion` there and a new version here.
-
 ---
 
 ## Community rules
